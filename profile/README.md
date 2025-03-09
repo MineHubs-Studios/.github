@@ -27,14 +27,6 @@ Technology evolves rapidly. By taking the reins on development, we ensure that w
 
 ---
 
-## 🌟 **What We’re Building**
-Our portfolio spans entertainment and innovation, with a passion for creating tools, platforms, and experiences that inspire. Here’s what you can expect from us:
-- **Immersive Games**: Worlds that captivate players with stories, visuals, and interactivity.
-- **Cutting-Edge Tech**: In-house solutions that enable creativity without compromise.
-- **Community Focus**: Everything we create is designed to connect and engage with you – our audience.
-
----
-
 ## 🚀 **Join Us on This Journey**
 Here on GitHub, you’ll find a growing showcase of our open-source projects, tools, and experiments. We believe in the power of collaboration, so whether you’re a developer, designer, or simply curious, we welcome you to explore, contribute, and grow with us.
 
