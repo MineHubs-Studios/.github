@@ -16,15 +16,6 @@ From crafting immersive worlds to building the tools that make them possible, ou
 
 While our roots are in entertainment, we realized that to truly bring our vision to life, we needed more than just imagination – we needed control, creativity, and cutting-edge technology. That’s why we embraced software development as our core.
 
-### 💡 **1. Freedom to Create**
-With our in-house development, we don’t just follow trends – we create them. No constraints, no limits. If we imagine it today, we bring it to life tomorrow.
-
-### 🎨 **2. Full Creative Control**
-From the tiniest animations to the largest systems, we ensure that every detail reflects the creative soul of Minehubs Studios. Every pixel, every line of code – it’s all part of our unique vision.
-
-### ⚡ **3. Staying Ahead of the Curve**
-Technology evolves rapidly. By taking the reins on development, we ensure that we can innovate quickly, stay competitive, and deliver extraordinary experiences.
-
 ---
 
 ## 🚀 **Join Us on This Journey**
